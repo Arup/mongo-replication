@@ -1,0 +1,9 @@
+hostname1=localhost
+port1=20000
+dbpath1=/data/rs1
+replica_set_name1=myRs
+
+hostname2=localhost
+port2=30000
+dbpath2=/data/rs1
+replica_set_name2=myRs
